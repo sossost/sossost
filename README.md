@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 </div>
 <div style={{display:"flex"}}>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-<img src="https://img.shields.io/badge/React Query CSS-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">  
+<img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">  
 </div>
