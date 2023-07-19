@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 💻 Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sossost)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## 🛠️ Technologies & Tools
 <div style={{display:"flex"}}>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -31,8 +34,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  
 </div>
 
 ## 📊 Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sossost&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sossost&show_icons=true&theme=dracula)
