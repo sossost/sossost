@@ -33,3 +33,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   
 </div>
+
+## 📊 Statistics
+[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=sossost&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
