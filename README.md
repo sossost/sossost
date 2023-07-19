@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 </div>
 
 ## 📊 Statistics
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=sossost&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sossost&show_icons=true&theme=synthwave)
