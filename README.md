@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">  
 </div>
 <div style={{display:"flex"}}>
+<img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/TailWind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">  
 </div>
 <div style={{display:"flex"}}>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/>
