@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## ✨ Skill
+JS TS React React-Native Next
+
 ## ⚙️ OpenSource
 - Babel - Fix suppressed error order (https://github.com/babel/babel/pull/16440
 - NextUI - Fix slider component vertical mark y position focus (https://github.com/nextui-org/nextui/pull/2660
