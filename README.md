@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## OpenSource
+- Babel - Fix suppressed error order (https://github.com/babel/babel/pull/16440
+- NextUI - Fix slider component vertical mark y position focus (https://github.com/nextui-org/nextui/pull/2660
+- Nuclear - Add feature queue to existing playlist  (https://github.com/nukeop/nuclear/pull/1593
+- FreeTube - Improve accessibility of playlist icon buttons (https://github.com/FreeTubeApp/FreeTube/pull/4943
+
 ## 💻 Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sossost)](https://github.com/anuraghazra/github-readme-stats)
