@@ -25,4 +25,4 @@ JS, TS, React, React-Native, Next
 - FreeTube - Improve accessibility of playlist icon buttons (https://github.com/FreeTubeApp/FreeTube/pull/4943
 
 ## 🔭 Interest
-Financial, History, Space
+Financial, History, Space, Cultural life
