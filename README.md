@@ -26,6 +26,3 @@ JS, TS, React, React-Native, Next
 - DocsGPT - Add copy button on code snippet (https://github.com/arc53/DocsGPT/pull/955)
 - Nuclear - Add queue to existing playlist (https://github.com/nukeop/nuclear/pull/1593)
 - FreeTube - Improve accessibility of playlist icon buttons (https://github.com/FreeTubeApp/FreeTube/pull/4943)
-
-## 🔭 Interest
-Financial, History, Space, Cultural life
