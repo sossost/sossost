@@ -6,6 +6,7 @@ JS, TS, React, React-Native, Next
 
 ## ⚙️ OpenSource
 - Babel - Fix suppressed error order (https://github.com/babel/babel/pull/16440)
+- Tanstack Query - Fix infer query data type in queryOptions (https://github.com/TanStack/query/pull/7537)
 - NextUI - Fix slider component vertical mark y position focus (https://github.com/nextui-org/nextui/pull/2660)
 - Supabase - Add example for deleting multiple records with delete().in() (https://github.com/supabase/supabase/pull/25883)
 - Nuxt - Update jsdoc for ignore-prefix to clarify ignored files (https://github.com/nuxt/nuxt/pull/27065)
