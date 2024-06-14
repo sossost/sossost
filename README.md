@@ -5,11 +5,11 @@
 JS, TS, React, React-Native, Next
 
 ## ⚙️ OpenSource
-- Babel - Fix suppressed error order (https://github.com/babel/babel/pull/16440)
-- Tanstack Query - Fix infer query data type in queryOptions (https://github.com/TanStack/query/pull/7537)
-- NextUI - Fix slider component vertical mark y position focus (https://github.com/nextui-org/nextui/pull/2660)
-- Supabase - Add example for deleting multiple records with delete().in() (https://github.com/supabase/supabase/pull/25883)
-- Nuxt - Update jsdoc for ignore-prefix to clarify ignored files (https://github.com/nuxt/nuxt/pull/27065)
-- DocsGPT - Add copy button on code snippet (https://github.com/arc53/DocsGPT/pull/955)
-- Nuclear - Add queue to existing playlist (https://github.com/nukeop/nuclear/pull/1593)
-- FreeTube - Improve accessibility of playlist icon buttons (https://github.com/FreeTubeApp/FreeTube/pull/4943)
+- [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=author%3Asossost)
+- [babel/babel](https://github.com/babel/babel/pulls?q=author%3Asossost+)
+- [TanStack/query](https://github.com/TanStack/query/pulls?q=author%3Asossost)
+- [nextui-org/nextui](https://github.com/nextui-org/nextui/pulls?q=author%3Asossost)
+- [supabase/supabase](https://github.com/supabase/supabase/pulls?q=author%3Asossost)
+- [nuxt/nuxt](https://github.com/nuxt/nuxt/pulls?q=author%3Asossost)
+- [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pulls?q=author%3Asossost)
+- [DocsGpt](https://github.com/arc53/DocsGPT/pulls?q=author%3Asossost), [Nuclear](https://github.com/nukeop/nuclear/pulls?q=author%3Asossost), [FreeTube](https://github.com/FreeTubeApp/FreeTube/pulls?q=author%3Asossost) ...
