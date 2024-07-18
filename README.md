@@ -16,4 +16,4 @@ JS, TS, React, React-Native, Next
 
 ## 📖TMI
 - designer & creator ~ 2022
-- interest in history, financial, space, cultural life
+- interest in history, finance, space, cultural life
