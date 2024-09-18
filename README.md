@@ -16,4 +16,5 @@ JS, TS, React, React-Native, Next
 
 ## 📖TMI
 - designer & creator ~ 2022
+- 2023 ~ frontend developer
 - interest in history, finance, space, cultural life
