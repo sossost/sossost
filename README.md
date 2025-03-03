@@ -1,5 +1,5 @@
 ## 😎 ynnsuis
-즐기는 허접 개발자
+허접
 
 ## ✨ Skill
 JS, TS, React, React-Native, Next
