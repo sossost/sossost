@@ -1,5 +1,5 @@
 ## 😎 ynnsuis
-허접
+2년차 응애
 
 ## ✨ Skill
 JS, TS, React, React-Native, Next
