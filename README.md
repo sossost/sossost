@@ -1,5 +1,5 @@
 ## 😎 ynnsuis
-
+Frontend Engineer
 ## ✨ Skill
 JS, TS, React, React-Native, Next
 
@@ -16,4 +16,4 @@ JS, TS, React, React-Native, Next
 ## 📖TMI
 - designer & creator ~ 2022
 - 2023 ~ frontend developer
-- interest in history, finance, space, cultural life
+- interest in finance, history, travel, space, cultural life
