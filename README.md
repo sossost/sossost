@@ -1,4 +1,4 @@
-## 😎 ynnsuis
+## 😎
 Frontend Engineer
 ## ✨ Skill
 JS, TS, React, React-Native, Next
