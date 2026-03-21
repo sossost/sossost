@@ -1,8 +1,8 @@
 Frontend Engineer
-## ✨ Skill
+## ✨ Skills
 JS, TS, React, React-Native, Next
 
-## ⚙️ OpenSource
+## ⚙️ OpenSources
 - [storybookjs/storybook](https://github.com/storybookjs/storybook/pull/26911)
 - [babel/babel](https://github.com/babel/babel/pulls?q=author%3Asossost+)
 - [TanStack/query](https://github.com/TanStack/query/pulls?q=author%3Asossost)
