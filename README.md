@@ -1,4 +1,4 @@
-Frontend Engineer
+Frontend Engineer / Agent Rancher
 ## ✨ Skills
 JS, TS, React, React-Native, Next
 
