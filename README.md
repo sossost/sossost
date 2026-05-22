@@ -1,4 +1,4 @@
-Frontend Engineer / Agent Rancher
+Frontend Engineer / Ai Growth Trader
 ## ✨ Skills
 JS, TS, React, React-Native, Next
 
