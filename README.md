@@ -1,7 +1,3 @@
-Frontend Engineer / Ai Growth Trader
-## ✨ Skills
-JS, TS, React, React-Native, Next
-
 ## ⚙️ OpenSources
 - [storybookjs/storybook](https://github.com/storybookjs/storybook/pull/26911)
 - [babel/babel](https://github.com/babel/babel/pulls?q=author%3Asossost+)
